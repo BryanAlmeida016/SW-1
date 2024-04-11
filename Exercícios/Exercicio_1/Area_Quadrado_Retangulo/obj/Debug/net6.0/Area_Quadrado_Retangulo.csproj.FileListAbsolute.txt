@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\bin\Debug\net6.0\Area_Quadrado_Retangulo.exe
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\bin\Debug\net6.0\Area_Quadrado_Retangulo.deps.json
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\bin\Debug\net6.0\Area_Quadrado_Retangulo.runtimeconfig.json
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\bin\Debug\net6.0\Area_Quadrado_Retangulo.dll
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\bin\Debug\net6.0\Area_Quadrado_Retangulo.pdb
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\obj\Debug\net6.0\Area_Quadrado_Retangulo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\obj\Debug\net6.0\Area_Quadrado_Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\obj\Debug\net6.0\Area_Quadrado_Retangulo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\obj\Debug\net6.0\Area_Quadrado_Retangulo.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\obj\Debug\net6.0\Area_Quadrado_Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\obj\Debug\net6.0\Area_Quadrado_Retangulo.dll
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\obj\Debug\net6.0\refint\Area_Quadrado_Retangulo.dll
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\obj\Debug\net6.0\Area_Quadrado_Retangulo.pdb
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\obj\Debug\net6.0\Area_Quadrado_Retangulo.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Exercícios\Area_Quadrado_Retangulo\Area_Quadrado_Retangulo\obj\Debug\net6.0\ref\Area_Quadrado_Retangulo.dll
